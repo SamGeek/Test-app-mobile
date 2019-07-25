@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="fill_field">Please Fill this field</string>
+</resources>
