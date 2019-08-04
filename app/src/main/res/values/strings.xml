@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">TestApp</string>
     <string name="fill_field">Please Fill this field</string>
+    <plurals name="age_label">
+        <item quantity="one">You are %d year old</item>
+        <item quantity="other">You are %d years old</item>
+    </plurals>
+
+
 </resources>

@@ -41,8 +41,8 @@
                 android:layout_marginTop="20dp"
                 android:padding="10dp"
                 android:background="@drawable/form_fields_bg"
-                android:id="@+id/age"
-                android:hint="Age"
+                android:id="@+id/birthDate"
+                android:hint="Birth date"
                 android:inputType="number"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
